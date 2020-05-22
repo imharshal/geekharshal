@@ -9,7 +9,7 @@ body{
 h2{
 	
 	 font-weight: bold; 
-	 font-size: 2.5rem;
+	 font-size: 36px;
 }
 
 
@@ -21,11 +21,11 @@ h2{
 }
 .nav-item{
 	color:#ffb367;
-	font-size: 1.2rem;
+	font-size: 20px;
 	padding: 0 5px;
 }
 .navbar-brand{
-	font-size: 2.5rem;
+	font-size: 36px;
 	font-family: 'Carter One', cursive;
 	color:#fff;
 	border:2px solid #fff;
@@ -38,7 +38,7 @@ h2{
 .welcome-text{
 	color:#fff;
 	font-family: 'Fredoka One', cursive;
-	font-size:4rem;
+	font-size:64px;
 	margin-top: 5%;
 	line-height: 1.5;
 	text-shadow: 4px 4px 10px #f57b51;
@@ -46,7 +46,7 @@ h2{
 }
 .footnote{
 	color:#fff;
-	font-size: 1.5rem;
+	font-size: 24px;
 	text-shadow: 2px 1px 3px #f57b51;
 
 }
@@ -65,7 +65,7 @@ h2{
 	color:#434e52;
 	text-align: center;
 	padding:5%;
-	font-size: 1.8rem;
+	font-size: 30px;
 }
 .services-icon{
 	padding-bottom: 30px;
@@ -79,7 +79,7 @@ h2{
 	padding:30px;
 }
 .heading{
-	font-size:2.5rem;
+	font-size:36px;
 	text-align: center;
 	font-weight: bold;
 	padding: 2%;
@@ -89,9 +89,9 @@ h2{
 }
 .course-para{
 	text-align: left;
-	line-height: 2rem;
+	line-height: 2;
 	color:#ffd082;
-	font-size: 1.2rem;
+	font-size: 24px;
 }
 
 #testimonials{

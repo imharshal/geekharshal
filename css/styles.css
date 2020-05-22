@@ -1,0 +1,144 @@
+body{
+	font-family: 'Montserrat', sans-serif
+}
+.container-fluid{
+	margin:0;
+	padding: 0;
+}
+
+h2{
+	
+	 font-weight: bold; 
+	 font-size: 2.5rem;
+}
+
+
+.jumbotron{
+	border-radius: 0;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-color: #f57b51;
+}
+.nav-item{
+	color:#ffb367;
+	font-size: 1.2rem;
+	padding: 0 5px;
+}
+.navbar-brand{
+	font-size: 2.5rem;
+	font-family: 'Carter One', cursive;
+	color:#fff;
+	border:2px solid #fff;
+	padding:2px 6px;
+}
+.navi{
+	background-color: #f57b51;
+	
+}
+.welcome-text{
+	color:#fff;
+	font-family: 'Fredoka One', cursive;
+	font-size:4rem;
+	margin-top: 5%;
+	line-height: 1.5;
+	text-shadow: 4px 4px 10px #f57b51;
+
+}
+.footnote{
+	color:#fff;
+	font-size: 1.5rem;
+	text-shadow: 2px 1px 3px #f57b51;
+
+}
+.title-btn{
+	margin: 7% 1.5% 2%;
+	width:200px;
+	box-shadow: 2px 2px 10px 10px #ffb367;
+	color:#f57b51;
+}
+
+#services{
+	margin: 3% 15%;
+	text-align: center;
+}
+.services-text{
+	color:#434e52;
+	text-align: center;
+	padding:5%;
+}
+.services-icon{
+	padding-bottom: 30px;
+}
+
+#courses{
+	background-color: #f57b51;
+}
+.course-image{
+	width:100%;
+	padding:30px;
+}
+.heading{
+	text-align: center;
+	font-weight: bold;
+	padding: 2%;
+}
+.course-block{
+	padding: 3% 5%;
+}
+.course-para{
+	text-align: left;
+	line-height: 2rem;
+	color:#ffd082;
+}
+
+#testimonials{
+	background-color: #eaf6f6;
+	text-align: center;
+
+}
+.testimonial-avatar{
+	width: 15%;
+}
+.carousel-text{
+	color:#fff;
+	padding: 0 10%;
+	text-shadow: 4px 4px 10px #f57b51; 
+}
+#team{
+	text-align: center;
+	padding: 0 10% 5%;
+	background-color: #f57b51; 
+}
+.team-column{
+	padding:10px;
+}
+.avatar{
+	width: 50%;
+}
+.avatar-info{
+	color:#434e52;
+}
+#contact{
+	padding:0 10% 2%;
+}
+.form-control{
+	margin:10px;
+}
+.address{
+	text-align: center;
+	width:30%;
+	margin: 5% 20%;
+}
+.icon{
+	color:#434e52;
+}
+#footer{
+	background-color: #f57b51;
+	padding: 2%;
+	text-align: center;
+	color:#fff;
+}
+
+/*font-family: 'Carter One', cursive;
+font-family: 'Fredoka One', cursive;
+font-family: 'Montserrat', sans-serif;*/

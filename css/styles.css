@@ -65,6 +65,7 @@ h2{
 	color:#434e52;
 	text-align: center;
 	padding:5%;
+	font-size: 1.8rem;
 }
 .services-icon{
 	padding-bottom: 30px;
@@ -78,6 +79,7 @@ h2{
 	padding:30px;
 }
 .heading{
+	font-size:2.5rem;
 	text-align: center;
 	font-weight: bold;
 	padding: 2%;
@@ -89,6 +91,7 @@ h2{
 	text-align: left;
 	line-height: 2rem;
 	color:#ffd082;
+	font-size: 1.2rem;
 }
 
 #testimonials{

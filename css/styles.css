@@ -126,8 +126,8 @@ h2{
 }
 .address{
 	text-align: center;
-	width:30%;
-	margin: 5% 20%;
+	
+	padding: 5% 4%;
 }
 .icon{
 	color:#434e52;
